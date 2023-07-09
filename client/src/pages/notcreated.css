@@ -1,0 +1,10 @@
+.notcreated{
+    min-width: 100px;
+    background-color: aliceblue;
+    border: 2px solid grey;
+    color:black;
+    margin: 70px;
+    padding: auto;
+    justify-content: center;
+    align-items: center;
+}
